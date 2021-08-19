@@ -1,8 +1,12 @@
 # jenkins-dev
 # jenkins-dev (Project Title)
-
+# a sentence about wanting to learn how to version control projects with git.
 One paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
+
+HEY
+dfgdfg
+
 
 ## Getting Started
 
@@ -20,5 +24,4 @@ What things you need to install the software and how to install them.
     * [Python](https://www.python.org/) - Used to build jenkins
 
 ## Authors
-
-    * **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+   * **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
